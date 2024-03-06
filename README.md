@@ -1,6 +1,4 @@
-# Análise de dados do ensino médio do Brasil visando a melhoria de indicadores educacionais.
-
-
+# Projeto Aplicado II
 
 ### Organização: LLCW Soluções de Pagamentos
 ### Área de atuação: Plataforma digital de pagamentos 
